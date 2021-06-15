@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b47a5973-88a3-4caa-ac7d-e333be29ab90/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ccfront",
+    "appService.deploySubpath": "."
+}

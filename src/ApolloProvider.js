@@ -7,7 +7,7 @@ import { ApolloProvider } from '@apollo/react-hooks';
 import { setContext } from 'apollo-link-context';
 
 const httpLink = createHttpLink({
-  uri: 'http://97bbfd06eea9.ngrok.io'
+  uri: 'https://ccback.azurewebsites.net/'
 });
 
 const authLink = setContext(() => {
